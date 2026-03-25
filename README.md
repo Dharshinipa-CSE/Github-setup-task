@@ -1,2 +1,6 @@
-# Github-setup-task
-My first GitHub repository 
+# GitHub Setup Task
+
+Name: Dharshini Pechimuthu 
+Department: Computer Science and Engineering 
+Year: 1
+
